@@ -4,7 +4,7 @@ sudo apt-get update -y
 
 sudo apt-get install unzip git sox gnupg2 curl libnewt-dev libssl-dev libncurses5-dev subversion libsqlite3-dev build-essential libjansson-dev libxml2-dev uuid-dev subversion -y
 
-wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-19.8.1.tar.gz
+wget http://downloads.asterisk.org/pub/telephony/asterisk/asterisk-20-current.tar.gz
 
 sudo apt install subversion
 
